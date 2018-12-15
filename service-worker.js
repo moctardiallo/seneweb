@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moctardiallo/seneweb/precache-manifest.d35607e2ad657553097249276e809f90.js"
+  "/seneweb/precache-manifest.32c2dfc1a29ecadbb0eccab497df22c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/moctardiallo/seneweb/index.html", {
+workbox.routing.registerNavigationRoute("/seneweb/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
