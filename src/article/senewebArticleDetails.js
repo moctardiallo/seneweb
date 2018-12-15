@@ -21,7 +21,7 @@ const Article = ({ id, article }) => {
 };
 
 const mapStateToProps = (state, ownProps) => {
-  console.log("ownProps.id:", ownProps.id);
+  console.log("ownProps:", ownProps);
   return {
     article: state.articles.find(article => article.id == ownProps.id)
   };
