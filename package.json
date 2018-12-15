@@ -2,8 +2,9 @@
   "name": "initial-react-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ttbsttsoo/seneweb",
+  "homepage": "https://moctardiallo.github.io/seneweb",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-materialize": "^2.5.1",

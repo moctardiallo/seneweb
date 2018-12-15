@@ -6,7 +6,7 @@ class CreerCommentaire extends Component {
       <div>
         <div className="input-field">
           <input type="text" name="auteur" />
-          <label for="auteur">Auteur:</label>
+          <label htmFor="auteur">Auteur:</label>
         </div>
         <div className="input-field">
           <textarea
@@ -14,7 +14,7 @@ class CreerCommentaire extends Component {
             className="materialize-textarea"
             data-length="120"
           />
-          <label for="commentaire">Commentaire:</label>
+          <label htmFor="commentaire">Commentaire:</label>
         </div>
         <div className="btn-flat green darken-3">Envoyer ma reponse</div>
       </div>
