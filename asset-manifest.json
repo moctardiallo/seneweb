@@ -1,9 +1,9 @@
 {
   "main.css": "/seneweb/static/css/main.71aa12c6.chunk.css",
-  "main.js": "/seneweb/static/js/main.966f262d.chunk.js",
-  "main.js.map": "/seneweb/static/js/main.966f262d.chunk.js.map",
-  "static/js/1.fab670c0.chunk.js": "/seneweb/static/js/1.fab670c0.chunk.js",
-  "static/js/1.fab670c0.chunk.js.map": "/seneweb/static/js/1.fab670c0.chunk.js.map",
+  "main.js": "/seneweb/static/js/main.ed793155.chunk.js",
+  "main.js.map": "/seneweb/static/js/main.ed793155.chunk.js.map",
+  "static/js/1.8f05b53c.chunk.js": "/seneweb/static/js/1.8f05b53c.chunk.js",
+  "static/js/1.8f05b53c.chunk.js.map": "/seneweb/static/js/1.8f05b53c.chunk.js.map",
   "runtime~main.js": "/seneweb/static/js/runtime~main.9c8ffbb7.js",
   "runtime~main.js.map": "/seneweb/static/js/runtime~main.9c8ffbb7.js.map",
   "static/media/mane.jpg": "/seneweb/static/media/mane.56c1cc2e.jpg",
@@ -13,6 +13,6 @@
   "static/media/mctr.jpg": "/seneweb/static/media/mctr.2bc95b30.jpg",
   "static/css/main.71aa12c6.chunk.css.map": "/seneweb/static/css/main.71aa12c6.chunk.css.map",
   "index.html": "/seneweb/index.html",
-  "precache-manifest.338d566f2348366d429dd3f2ab2288d2.js": "/seneweb/precache-manifest.338d566f2348366d429dd3f2ab2288d2.js",
+  "precache-manifest.37b07b7e5ff2817511d65ffa87778ec7.js": "/seneweb/precache-manifest.37b07b7e5ff2817511d65ffa87778ec7.js",
   "service-worker.js": "/seneweb/service-worker.js"
 }

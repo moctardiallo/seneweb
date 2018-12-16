@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/seneweb/static/js/runtime~main.9c8ffbb7.js"
   },
   {
-    "revision": "966f262d57823ca5c8c0",
-    "url": "/seneweb/static/js/main.966f262d.chunk.js"
+    "revision": "ed793155697120d6f77f",
+    "url": "/seneweb/static/js/main.ed793155.chunk.js"
   },
   {
-    "revision": "fab670c0b85786a1e789",
-    "url": "/seneweb/static/js/1.fab670c0.chunk.js"
+    "revision": "8f05b53c9ea2af0355e3",
+    "url": "/seneweb/static/js/1.8f05b53c.chunk.js"
   },
   {
-    "revision": "966f262d57823ca5c8c0",
+    "revision": "ed793155697120d6f77f",
     "url": "/seneweb/static/css/main.71aa12c6.chunk.css"
   },
   {
-    "revision": "a4f202d30ca0464205ac3fe927921117",
+    "revision": "af8e591ccc02bc610fa5cae660fa7634",
     "url": "/seneweb/index.html"
   }
 ];
