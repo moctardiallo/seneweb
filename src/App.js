@@ -5,12 +5,12 @@ import PageDAcceuil from "./pageDAcceuil/senewebPageDAcceuil";
 import { Row } from "react-materialize";
 import Col from "react-materialize/lib/Col";
 
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="">
           <Row>
             <Col s={12}>
@@ -19,7 +19,7 @@ class App extends Component {
           </Row>
           <PageDAcceuil />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }

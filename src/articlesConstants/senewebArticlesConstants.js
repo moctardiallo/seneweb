@@ -12,7 +12,7 @@ class ArticlesConstants extends Component {
       <Row>
         {this.state.article_ids.map(id => {
           return (
-            <Col s={12}>
+            <Col>
               <Article id={id} />
             </Col>
           );
